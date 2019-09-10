@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15679" started-at="2019-09-10T19:54:27 IST" finished-at="2019-09-10T19:54:43 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15679" started-at="2019-09-10T19:54:27 IST" finished-at="2019-09-10T19:54:43 IST">
+      <class name="MainTest.NewTest">
+        <test-method status="PASS" signature="homepage()[pri:0, instance:MainTest.NewTest@3dfc5fb8]" name="homepage" is-config="true" duration-ms="12211" started-at="2019-09-10T19:54:27 IST" finished-at="2019-09-10T19:54:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage -->
+        <test-method status="PASS" signature="titlecompare()[pri:0, instance:MainTest.NewTest@3dfc5fb8]" name="titlecompare" duration-ms="21" started-at="2019-09-10T19:54:39 IST" finished-at="2019-09-10T19:54:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titlecompare -->
+        <test-method status="PASS" signature="username()[pri:1, instance:MainTest.NewTest@3dfc5fb8]" name="username" duration-ms="251" started-at="2019-09-10T19:54:39 IST" finished-at="2019-09-10T19:54:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- username -->
+        <test-method status="PASS" signature="login()[pri:2, instance:MainTest.NewTest@3dfc5fb8]" name="login" duration-ms="2142" started-at="2019-09-10T19:54:40 IST" finished-at="2019-09-10T19:54:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:MainTest.NewTest@3dfc5fb8]" name="quit" is-config="true" duration-ms="1010" started-at="2019-09-10T19:54:42 IST" finished-at="2019-09-10T19:54:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- MainTest.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
