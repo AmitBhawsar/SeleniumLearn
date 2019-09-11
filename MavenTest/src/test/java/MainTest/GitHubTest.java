@@ -7,6 +7,7 @@ public class GitHubTest {
 
 		System.out.println("Hello WOrld");
 		
+		System.out.println(Amit);
 	}
 
 }
