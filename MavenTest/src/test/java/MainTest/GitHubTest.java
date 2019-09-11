@@ -6,8 +6,9 @@ public class GitHubTest {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello WOrld");
+	
+		System.out.println("Hemant");
 		
-		System.out.println(Amit);
 	}
 
 }
